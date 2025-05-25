@@ -64,7 +64,7 @@
 <h3 align="center">🧩 Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NestCodeGIT&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/NestCodeGIT/NestCodeGIT/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 
