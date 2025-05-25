@@ -1,10 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+a+.NET+Developer;Backend+Architect+%7C+Blazor+%7C+Linux+%7C+API+Engineer;Crafting+Code+That+Performs+%F0%9F%92%AA" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=true&width=800&lines=Hi+There!+I'm+a+.NET+Backend+Architect;Blazor+%7C+Linux+%7C+API+Engineer+%7C+AI+Curious;Building+High+Performance+Systems+⚙️+with+Clean+Code"
+    alt="Typing Intro"
+  />
 </h1>
 
 <p align="center">
-  <img src="https://assets-global.website-files.com/6501cb5e7c35b04e27812a4f/6505bb749d5c444f81399b39_coding-loop.gif" alt="3D Dev" width="380"/>
+  <img
+    src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20a9775b646df6f2064cc4a2c.gif"
+    width="420"
+    alt="Animated Dev"
+    style="border-radius: 12px; box-shadow: 0 0 15px #00f2ff;"
+  />
 </p>
+
 
 ---
 
