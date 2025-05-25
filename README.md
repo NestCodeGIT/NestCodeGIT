@@ -38,14 +38,43 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Insights</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&show_icons=true&count_private=true&hide=issues" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="48%" />
+
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/yourusername">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10&hide_title=false" alt="GitHub Stats" />
+  </a>
+
+  <!-- Top Languages Card -->
+  <a href="https://github.com/yourusername">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+
+  <!-- Contribution Streak -->
+  <a href="https://github.com/yourusername">
+    <img height="180px" src="https://streak-stats.demolab.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak" />
+  </a>
+
 </div>
+
+---
+
+<h3 align="center">🧩 Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 
 ---
 
