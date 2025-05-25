@@ -77,11 +77,7 @@
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
 
-<p align="center">
-  <img src="https://github.com/NestCodeGIT/NestCodeGIT/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 
 ---
