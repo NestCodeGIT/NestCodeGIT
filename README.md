@@ -44,17 +44,17 @@
 
   <!-- GitHub Stats Card -->
   <a href="https://github.com/yourusername">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10&hide_title=false" alt="GitHub Stats" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=NestCodeGIT&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10&hide_title=false" alt="GitHub Stats" />
   </a>
 
   <!-- Top Languages Card -->
   <a href="https://github.com/yourusername">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&border_radius=10" alt="Top Languages" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestCodeGIT&layout=compact&langs_count=8&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 
   <!-- Contribution Streak -->
   <a href="https://github.com/yourusername">
-    <img height="180px" src="https://streak-stats.demolab.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak" />
+    <img height="180px" src="https://streak-stats.demolab.com?user=NestCodeGIT&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak" />
   </a>
 
 </div>
