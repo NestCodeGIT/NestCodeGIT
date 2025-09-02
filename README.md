@@ -4,18 +4,6 @@
     alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img 
-    src="https://assets-global.website-files.com/6501cb5e7c35b04e27812a4f/6505bb749d5c444f81399b39_coding-loop.gif" 
-    alt="3D Dev Animation" 
-    width="380"
-    style="border-radius: 12px; box-shadow: 0 0 12px #58A6FF;" />
-</p>
-
-
-
----
-
 ## 🧠 About Me
 
 🎯 Passionate about building modern, secure, and scalable systems using **.NET**, **Blazor**, and **Linux**  
